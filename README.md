@@ -50,4 +50,4 @@ $ npm start
 
 
 > [!IMPORTANT]
-> When running locally, the pagination will not work. Deploy to CloudCannon to see successful pagination. 
+> When running locally, the pagination will not work. Deploy to CloudCannon to see successful pagination.
