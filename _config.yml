@@ -1,5 +1,7 @@
 title: Akte 1202
 
+languages: de
+
 plugins:
   - jekyll-bookshop
   - jekyll-sitemap
