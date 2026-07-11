@@ -1,8 +1,8 @@
 /* Footer */
 .footer {
   position: relative;
-  margin-top: 24px;
-  padding: 56px 0 20px;
+  margin-top: 8px;
+  padding: 44px 0 20px;
   overflow: hidden;
   background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
 
@@ -58,12 +58,12 @@
   }
 
   @media only screen and (max-width: $desktop) {
-    padding: 80px 0 60px;
+    padding: 50px 0 30px;
   }
 
   @media only screen and (max-width: $mobile) {
-    margin-top: 10px;
-     padding: 60px 0;
+    margin-top: 20px;
+     padding: 30px 0;
 
      .footer_nav {
       .footer_nav__item {
