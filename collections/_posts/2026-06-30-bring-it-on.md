@@ -11,9 +11,9 @@ image: /images/post-1.jpg
 Ein souveräner Rechtsstaat? Eine unabhängige Justiz? Die bittere Wahrheit sieht anders aus. Wenn verbriefte Rechte plötzlich wertlos werden und höchste Gerichtsurteile auf den Fluren der Amtsgerichte als Altpapier enden, müssen wir die entscheidende Frage stellen: Wer zieht hier eigentlich im Hintergrund die Fäden? Willkommen in einem Justiz-Albtraum, in dem deutsche Gerichte zu reinen Befehlsempfängern einer unsichtbaren Macht verkommen – und eine skrupellose Erbenmafia die perfekte Kulisse für die kaltblütige Vernichtung von Beweismitteln aufbaut.
 Die Akte wurde nur zur Ansicht überlassen - von Anfang an. Ein unzulässiges Vorgehen, das einen rechtlos stellt, da keine für Prozesse notwendige Abschriften so erstellt werden können.
 
-![Die Akte](/assets/media/img/posts/20260710-akte-wird-nach-wiesbaden-ueberstellt.jpg){: width="900" height="1200"}
+![Die Akte](/assets/media/img/post/20260710-akte-wird-nach-wiesbaden-ueberstellt.jpg){: width="900" height="1200"}
 
-<strong>Der Schattenmann: Zwei Worte, die den Rechtsstaat aushebeln<s/trong>
+<strong>Der Schattenmann: Zwei Worte, die den Rechtsstaat aushebeln</strong>
 
 Zwei Worte genügen, um in Deutschland den Rechtsweg faktisch zu auszuschalten: „Auf Anordnung.“
 
