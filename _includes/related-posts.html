@@ -30,7 +30,7 @@
                 {% if page.tags.size >= 1 %}
                 {% for tag in page.tags %}
                   {% if forloop.index == 1 %}
-                    <a href="{{ tag | tag_url }}" class="section__link related-tag">Alles zu<span> {{ tag }}</span> <ion-icon name="arrow-forward"></ion-icon></a>
+                    <a href="{{ tag | tag_url }}" class="section__link related-tag">Alles zum Thema<span> {{ tag }}</span> <ion-icon name="arrow-forward"></ion-icon></a>
                   {% endif %}
                 {% endfor %}
               {% endif %}
