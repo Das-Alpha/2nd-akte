@@ -12,7 +12,7 @@ Ein souveräner Rechtsstaat? Eine unabhängige Justiz? Die bittere Wahrheit sieh
 
 <strong>Der Schattenmann: Zwei Worte, die den Rechtsstaat aushebeln</strong>
 
-Zwei Worte genügen, um in Deutschland den Rechtsweg faktisch zu kastrieren: „Auf Anordnung.“
+Zwei Worte genügen, um in Deutschland den Rechtsweg faktisch abzuschneiden: „Auf Anordnung.“
 
 Kein Name. Kein Gesicht. Kein Amt. Keine Unterschrift. Nur diese eiskalte Formel, mit der das Amtsgericht Wiesbaden die Herausgabe der dringend benötigten, elektronisch beglaubigten Abschrift der 28-seitigen Notariatsakte verweigert. Es gibt keinen richterlichen Beschluss. Es gibt keine Rechtsbehelfsbelehrung. Es gibt nichts, woran sich der Rechtsschutzsuchende festhalten könnte – außer der schieren, nackten Willkür.
 
@@ -37,3 +37,9 @@ Das Kalkül der Drahtzieher ist so simpel wie teuflisch: Keine Akte, keine Bewei
 Und während in Wiesbaden und Ludwigsburg der Beweismittel-Mord vorbereitet wird, herrscht beim Oberlandesgericht Frankfurt Totenstille. Keine einstweilige Anordnung. Kein Sicherstellungsbeschluss. Kein richterliches Machtwort, das diesem Treiben Einhalt gebietet. Das OLG Frankfurt, die letzte Hoffnung auf rechtsstaatliche Korrektur, schaut diesem Justizputsch tatenlos zu. Ist das nur hilflose Überforderung – oder bereits die nächste Filiale der Schattenjustiz?
 
 Wir werden nicht ruhen, bis die Identität dieser ominösen Person aufgedeckt ist, die sich anmaßt, das deutsche Rechtssystem nach ihren eigenen, dunklen Regeln zu dirigieren. Der Name hinter der "Anordnung" wird ans Licht gezerrt – und mit ihm das gesamte mafiöse Netzwerk, das glaubt, Erben enteignen, Beweise vernichten und Richter zu Marionetten machen zu können. Die Jagd auf den Schattenmann hat gerade erst begonnen.
+
+![Woman with child](/images/image-example-1.jpg){: width="1200" height="900"}
+
+> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time\!
+
+![Beach](/images/image-example-2.jpg){: width="1200" height="900"}
