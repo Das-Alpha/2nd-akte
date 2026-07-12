@@ -12,7 +12,6 @@ Ein souveräner Rechtsstaat? Eine unabhängige Justiz? Die bittere Wahrheit sieh
 Die Akte wurde nur zur Ansicht überlassen - von Anfang an. Ein unzulässiges Vorgehen, das einen rechtlos stellt, da keine für Prozesse notwendige Abschriften so erstellt werden können.
 
 ![Die Akte](/assets/media/img/post/20260710-akte-wird-nach-wiesbaden-ueberstellt.jpg){: width="450" height="600"}<br/>
-
 [Die erste Nachricht](/assets/media/img/post/20260710-akte-wird-nach-wiesbaden-ueberstellt.pdf) - Akte ja / beglaubigte Abschriften nein
 
 <strong>Der Schattenmann: Zwei Worte, die den Rechtsstaat aushebeln</strong>
