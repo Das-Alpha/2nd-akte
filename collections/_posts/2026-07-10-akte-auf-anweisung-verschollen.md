@@ -1,6 +1,6 @@
 ---
 date: 2026-07-10 10:00:00
-title: JUSTIZ-SKANDAL: Wer ist der Schattenmann? 
+title: JUSTIZ-SKANDAL - Wer ist der Schattenmann? 
 description: >-
   Wie Marionetten-Gerichte für eine Erbenmafia das Gesetz brechen und historische Beweise vernichten
 tags:
