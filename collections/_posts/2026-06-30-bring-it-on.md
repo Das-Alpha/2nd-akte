@@ -1,6 +1,6 @@
 ---
 date: 2026-06-30 10:00:00
-title: JUSTIZ-SKANDAL: Die Akte von der es keine Abschriften geben darf!
+title: JUSTIZ-SKANDAL - Die Akte von der es keine Abschriften geben darf!
 description: >-
   Auf Anordnung - ohne Namen ohne richterliche Entscheidungen! Wer ist dieser ominöse Schattenmann im Hintergrund?
 tags:
