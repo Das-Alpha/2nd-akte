@@ -6,7 +6,7 @@ description: >-
 tags:
   - Justiz
   - Akte1202
-image: /images/post-1.jpg
+image: /assets/media/splash/the-sign.jpg
 ---
 Ein souveräner Rechtsstaat? Eine unabhängige Justiz? Die bittere Wahrheit sieht anders aus. Wenn verbriefte Rechte plötzlich wertlos werden und höchste Gerichtsurteile auf den Fluren der Amtsgerichte als Altpapier enden, müssen wir die entscheidende Frage stellen: Wer zieht hier eigentlich im Hintergrund die Fäden? Willkommen in einem Justiz-Albtraum, in dem deutsche Gerichte zu reinen Befehlsempfängern einer unsichtbaren Macht verkommen – und eine skrupellose Erbenmafia die perfekte Kulisse für die kaltblütige Vernichtung von Beweismitteln aufbaut.
 Die Akte wurde nur zur Ansicht überlassen - von Anfang an. Ein unzulässiges Vorgehen, das einen rechtlos stellt, da keine für Prozesse notwendige Abschriften so erstellt werden können.
